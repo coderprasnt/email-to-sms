@@ -70,14 +70,12 @@ python send_sms.py --recipients path/to/recipients.csv --message "Your message h
 2. **📤 Send the SMS**:
     ```bash
     python send_sms.py --recipients recipients.csv --message "Your message here"
-OR
-    You can simply use web version
     ```
 
 ## 🏁 Conclusion
 The Bulk Email to SMS Tool is a powerful solution for sending bulk SMS messages through email. By leveraging email-to-SMS gateways, it provides an efficient way to reach your audience via SMS.
 
 ## 📞 Contact
-If you have any questions or need further assistance, please contact me through my social media channels.
+If you have any questions or need further assistance, please contact us through our Telegram channel.
 
-- **🐦 Telegram**: [@witchshophub](https://t.me/witchshophub)
+- **Telegram**: [WitchShopHub](https://t.me/witchshophub)
